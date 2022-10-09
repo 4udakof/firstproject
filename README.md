@@ -1,3 +1,3 @@
 # firstproject
 This is my first project
-Nikolay :-)
+Nikolay 2.kurss :-)
